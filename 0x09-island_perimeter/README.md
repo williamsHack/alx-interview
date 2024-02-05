@@ -6,6 +6,7 @@ Python
  Project will start Nov 27, 2023 6:00 AM, must end by Dec 1, 2023 6:00 AM
  Checker was released at Nov 28, 2023 6:00 AM
  An auto review will be launched at the deadline
+By His Grace
 Requirements
 General
 Allowed editors: vi, vim, emacs
